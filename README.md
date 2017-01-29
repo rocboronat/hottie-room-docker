@@ -5,4 +5,5 @@ How to run it?
 
 ```bash
 docker run fewlaps/hottie-room
-docker run fewlaps/hottie-room --server.port=42```
+docker run fewlaps/hottie-room --server.port=42
+```
