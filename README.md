@@ -1,9 +1,8 @@
 # hottie-room-docker
 Dockerize the server of the hottie room!
 
-How to run it?
-
 ```bash
-docker run fewlaps/hottie-room
-docker run fewlaps/hottie-room --server.port=42
+docker run -d -p 8080:6969 fewlaps/hottie-room
 ```
+
+Will run hottie-room server over the port 6969
